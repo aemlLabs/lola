@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">L.ol.a</string>
+    <string name="app_name_complete">Life On-Line Artifact</string>
+    <string name="lola_tools_title">Herramientas</string>
+    <string name="lola_section_name_error">El nombre de la sección es muy largo</string>
+    <string name="lola_home_launch">Ejecutar LoLa</string>
+    <string name="lola_home_custom_lola">Personalizar LoLa</string>
+    <string name="lola_loading_default_title">Por favor espere</string>
+    <string name="lola_home_step_1"><![CDATA[>>Cargando datos por defecto]]></string>
+    <string name="lola_home_step_2"><![CDATA[>>Revisando permisos]]></string>
+    <string name="lola_home_step_3"><![CDATA[>>Restaurando sesión]]></string>
+    <string name="lola_home_step_4"><![CDATA[>>Iniciando interfaz de usuario]]></string>
+</resources>
